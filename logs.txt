@@ -1,0 +1,322 @@
+Wed Apr 20 2022 04:35:36 GMT+0530 (IST) -- Binary semantic version is v8.1.1
+Wed Apr 20 2022 04:35:36 GMT+0530 (IST) -- Setting output as extra verbose with request parsing
+Wed Apr 20 2022 04:35:39 GMT+0530 (IST) -- [SUCCESS] You can now access your local server(s) in our remote browser
+
+Wed Apr 20 2022 04:35:39 GMT+0530 (IST) -- Connecting to BrowserStack using WebSocket protocol...
+Wed Apr 20 2022 04:35:39 GMT+0530 (IST) -- Platform supports WebSocket connections.
+
+Wed Apr 20 2022 04:35:41 GMT+0530 (IST) -- Connecting to BrowserStack using WebSocket protocol...
+Wed Apr 20 2022 04:35:41 GMT+0530 (IST) -- Platform supports WebSocket connections.
+
+Wed Apr 20 2022 04:35:41 GMT+0530 (IST) -- Connecting to BrowserStack using WebSocket protocol...
+Wed Apr 20 2022 04:35:41 GMT+0530 (IST) -- Platform supports WebSocket connections.
+
+Wed Apr 20 2022 04:35:41 GMT+0530 (IST) -- Connecting to BrowserStack using WebSocket protocol...
+Wed Apr 20 2022 04:35:41 GMT+0530 (IST) -- Press Ctrl-C to exit
+
+
+Wed Apr 20 2022 04:35:41 GMT+0530 (IST) -- Platform supports WebSocket connections.
+
+Wed Apr 20 2022 04:35:54 GMT+0530 (IST) -- ID-1 Request to: accounts.google.com:443
+Wed Apr 20 2022 04:35:54 GMT+0530 (IST) -- ID-1 [PARSING HANDSHAKE][0][26288204] Handshake request to accounts.google.com:443
+Wed Apr 20 2022 04:35:54 GMT+0530 (IST) -- ID-1 Connecting to: accounts.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:54 GMT+0530 (IST) -- ID-1 [PARSING RESPONSE][0][26288204] HTTP/1.1 200 FROM accounts.google.com:443
+Wed Apr 20 2022 04:35:54 GMT+0530 (IST) -- ID-1 Connected to: accounts.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:54 GMT+0530 (IST) -- ID-1 Request to: www.google.com:443
+Wed Apr 20 2022 04:35:54 GMT+0530 (IST) -- ID-1 [PARSING HANDSHAKE][0][26288210] Handshake request to www.google.com:443
+Wed Apr 20 2022 04:35:54 GMT+0530 (IST) -- ID-1 Connecting to: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:54 GMT+0530 (IST) -- ID-1 [PARSING RESPONSE][0][26288210] HTTP/1.1 200 FROM www.google.com:443
+Wed Apr 20 2022 04:35:54 GMT+0530 (IST) -- ID-1 Connected to: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:55 GMT+0530 (IST) -- ID-1 Writing response from: accounts.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:55 GMT+0530 (IST) -- ID-1 Writing response from: accounts.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:55 GMT+0530 (IST) -- ID-1 Request to: local.browserstack.com:443
+Wed Apr 20 2022 04:35:55 GMT+0530 (IST) -- ID-1 [PARSING HANDSHAKE][0][26288220] Handshake request to local.browserstack.com:443
+Wed Apr 20 2022 04:35:55 GMT+0530 (IST) -- ID-1 Connecting to: local.browserstack.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:55 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:55 GMT+0530 (IST) -- ID-1 Writing response from: accounts.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:55 GMT+0530 (IST) -- ID-1 Writing response from: accounts.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:55 GMT+0530 (IST) -- ID-1 Writing response from: accounts.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:55 GMT+0530 (IST) -- ID-1 Writing response from: accounts.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:55 GMT+0530 (IST) -- ID-1 Writing response from: accounts.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:55 GMT+0530 (IST) -- ID-1 Writing response from: accounts.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:55 GMT+0530 (IST) -- ID-1 Writing response from: accounts.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:55 GMT+0530 (IST) -- ID-1 Writing response from: accounts.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:55 GMT+0530 (IST) -- ID-1 Writing response from: accounts.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:55 GMT+0530 (IST) -- ID-1 Writing response from: accounts.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:55 GMT+0530 (IST) -- ID-1 Writing response from: accounts.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:55 GMT+0530 (IST) -- ID-1 Writing response from: accounts.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:55 GMT+0530 (IST) -- ID-1 Writing response from: accounts.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:55 GMT+0530 (IST) -- ID-1 Writing response from: accounts.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:55 GMT+0530 (IST) -- ID-1 Writing response from: accounts.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:55 GMT+0530 (IST) -- ID-1 Writing response from: accounts.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:55 GMT+0530 (IST) -- ID-1 Writing response from: accounts.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:55 GMT+0530 (IST) -- ID-1 Writing response from: accounts.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:55 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:55 GMT+0530 (IST) -- ID-1 Writing response from: accounts.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:55 GMT+0530 (IST) -- ID-1 Writing response from: accounts.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:55 GMT+0530 (IST) -- ID-1 Writing response from: accounts.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:55 GMT+0530 (IST) -- ID-1 Writing response from: accounts.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:55 GMT+0530 (IST) -- ID-1 Writing response from: accounts.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:55 GMT+0530 (IST) -- ID-1 Writing response from: accounts.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:55 GMT+0530 (IST) -- ID-1 Writing response from: accounts.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:55 GMT+0530 (IST) -- ID-1 Writing response from: accounts.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:55 GMT+0530 (IST) -- ID-1 Writing response from: accounts.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:55 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:55 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:55 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:55 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:55 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:55 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:55 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:55 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:55 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:55 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:55 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:55 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:55 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:55 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:55 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:55 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:55 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:55 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:55 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:55 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:55 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:55 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:55 GMT+0530 (IST) -- ID-1 Request to: www.google.com:443
+Wed Apr 20 2022 04:35:55 GMT+0530 (IST) -- ID-1 [PARSING HANDSHAKE][0][26288232] Handshake request to www.google.com:443
+Wed Apr 20 2022 04:35:55 GMT+0530 (IST) -- ID-1 Connecting to: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:55 GMT+0530 (IST) -- ID-1 Request to: www.google.com:443
+Wed Apr 20 2022 04:35:55 GMT+0530 (IST) -- ID-1 [PARSING HANDSHAKE][0][26288233] Handshake request to www.google.com:443
+Wed Apr 20 2022 04:35:55 GMT+0530 (IST) -- ID-1 Connecting to: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:55 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:55 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:55 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:55 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:55 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:55 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:55 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:55 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:55 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:55 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:55 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:55 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:55 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:55 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:55 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:55 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:55 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:55 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:55 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:55 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:55 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:55 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:55 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:55 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:55 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:55 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:55 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:55 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:55 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:55 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:55 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:55 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:55 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:55 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:55 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:55 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:55 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:55 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:55 GMT+0530 (IST) -- ID-1 [PARSING RESPONSE][0][26288232] HTTP/1.1 200 FROM www.google.com:443
+Wed Apr 20 2022 04:35:55 GMT+0530 (IST) -- ID-1 Connected to: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:55 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:55 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:55 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:55 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:56 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:56 GMT+0530 (IST) -- ID-1 [PARSING RESPONSE][0][26288233] HTTP/1.1 200 FROM www.google.com:443
+Wed Apr 20 2022 04:35:56 GMT+0530 (IST) -- ID-1 Connected to: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:56 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:56 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:56 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:56 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:56 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:56 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:56 GMT+0530 (IST) -- ID-1 [PARSING RESPONSE][0][26288220] HTTP/1.1 200 FROM local.browserstack.com:443
+Wed Apr 20 2022 04:35:56 GMT+0530 (IST) -- ID-1 Connected to: local.browserstack.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:56 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:56 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:56 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:56 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:56 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:56 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:56 GMT+0530 (IST) -- ID-1 Request to: www.gstatic.com:443
+Wed Apr 20 2022 04:35:56 GMT+0530 (IST) -- ID-1 [PARSING HANDSHAKE][0][26288240] Handshake request to www.gstatic.com:443
+Wed Apr 20 2022 04:35:56 GMT+0530 (IST) -- ID-1 Connecting to: www.gstatic.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:56 GMT+0530 (IST) -- ID-1 Request to: www.gstatic.com:443
+Wed Apr 20 2022 04:35:56 GMT+0530 (IST) -- ID-1 [PARSING HANDSHAKE][0][26288241] Handshake request to www.gstatic.com:443
+Wed Apr 20 2022 04:35:56 GMT+0530 (IST) -- ID-1 Connecting to: www.gstatic.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:56 GMT+0530 (IST) -- ID-1 Writing response from: local.browserstack.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:56 GMT+0530 (IST) -- ID-1 [PARSING RESPONSE][0][26288240] HTTP/1.1 200 FROM www.gstatic.com:443
+Wed Apr 20 2022 04:35:56 GMT+0530 (IST) -- ID-1 Connected to: www.gstatic.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:56 GMT+0530 (IST) -- ID-1 [PARSING RESPONSE][0][26288241] HTTP/1.1 200 FROM www.gstatic.com:443
+Wed Apr 20 2022 04:35:56 GMT+0530 (IST) -- ID-1 Connected to: www.gstatic.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:56 GMT+0530 (IST) -- ID-1 Writing response from: www.gstatic.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:56 GMT+0530 (IST) -- ID-1 Writing response from: www.gstatic.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:56 GMT+0530 (IST) -- ID-1 Writing response from: www.gstatic.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:56 GMT+0530 (IST) -- ID-1 Writing response from: www.gstatic.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:56 GMT+0530 (IST) -- ID-1 Writing response from: www.gstatic.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:56 GMT+0530 (IST) -- ID-1 Writing response from: www.gstatic.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:56 GMT+0530 (IST) -- ID-1 Writing response from: www.gstatic.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:56 GMT+0530 (IST) -- ID-1 Writing response from: www.gstatic.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:56 GMT+0530 (IST) -- ID-1 Writing response from: www.gstatic.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:56 GMT+0530 (IST) -- ID-1 Writing response from: www.gstatic.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:56 GMT+0530 (IST) -- ID-1 Writing response from: www.gstatic.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:56 GMT+0530 (IST) -- ID-1 Writing response from: www.gstatic.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:56 GMT+0530 (IST) -- ID-1 Writing response from: www.gstatic.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:56 GMT+0530 (IST) -- ID-1 Writing response from: www.gstatic.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:56 GMT+0530 (IST) -- ID-1 Writing response from: www.gstatic.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:56 GMT+0530 (IST) -- ID-1 Writing response from: www.gstatic.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:56 GMT+0530 (IST) -- ID-1 Writing response from: www.gstatic.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:56 GMT+0530 (IST) -- ID-1 Writing response from: www.gstatic.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:56 GMT+0530 (IST) -- ID-1 Writing response from: www.gstatic.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:56 GMT+0530 (IST) -- ID-1 Writing response from: www.gstatic.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:56 GMT+0530 (IST) -- ID-1 Writing response from: www.gstatic.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:56 GMT+0530 (IST) -- ID-1 Writing response from: www.gstatic.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:56 GMT+0530 (IST) -- ID-1 Writing response from: www.gstatic.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:56 GMT+0530 (IST) -- ID-1 Writing response from: www.gstatic.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:56 GMT+0530 (IST) -- ID-1 Writing response from: www.gstatic.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:56 GMT+0530 (IST) -- ID-1 Writing response from: www.gstatic.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:56 GMT+0530 (IST) -- ID-1 Writing response from: www.gstatic.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:56 GMT+0530 (IST) -- ID-1 Writing response from: www.gstatic.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:56 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:56 GMT+0530 (IST) -- ID-1 Writing response from: www.gstatic.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:56 GMT+0530 (IST) -- ID-1 Writing response from: www.gstatic.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:56 GMT+0530 (IST) -- ID-1 Writing response from: www.gstatic.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:56 GMT+0530 (IST) -- ID-1 Writing response from: www.gstatic.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:56 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:56 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:56 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:56 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:56 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:56 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:56 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:57 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:57 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:57 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:57 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:57 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:57 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:57 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:57 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:57 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:57 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:57 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:57 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:57 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:57 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:57 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:57 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:57 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:57 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:57 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:57 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:57 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:57 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:57 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:57 GMT+0530 (IST) -- ID-1 Request to: apis.google.com:443
+Wed Apr 20 2022 04:35:57 GMT+0530 (IST) -- ID-1 [PARSING HANDSHAKE][0][26288251] Handshake request to apis.google.com:443
+Wed Apr 20 2022 04:35:57 GMT+0530 (IST) -- ID-1 Connecting to: apis.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:57 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:57 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:57 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:57 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:57 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:57 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:57 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:57 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:57 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:57 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:57 GMT+0530 (IST) -- ID-1 [PARSING RESPONSE][0][26288251] HTTP/1.1 200 FROM apis.google.com:443
+Wed Apr 20 2022 04:35:57 GMT+0530 (IST) -- ID-1 Connected to: apis.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:57 GMT+0530 (IST) -- ID-1 Request to: www.google.com:443
+Wed Apr 20 2022 04:35:57 GMT+0530 (IST) -- ID-1 [PARSING HANDSHAKE][0][26288252] Handshake request to www.google.com:443
+Wed Apr 20 2022 04:35:57 GMT+0530 (IST) -- ID-1 Connecting to: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:57 GMT+0530 (IST) -- ID-1 [PARSING RESPONSE][0][26288252] HTTP/1.1 200 FROM www.google.com:443
+Wed Apr 20 2022 04:35:57 GMT+0530 (IST) -- ID-1 Connected to: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:57 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:57 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:57 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:57 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:57 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:57 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:57 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:57 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:57 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:57 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:57 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:57 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:57 GMT+0530 (IST) -- ID-1 Request to: play.google.com:443
+Wed Apr 20 2022 04:35:57 GMT+0530 (IST) -- ID-1 [PARSING HANDSHAKE][0][26288254] Handshake request to play.google.com:443
+Wed Apr 20 2022 04:35:57 GMT+0530 (IST) -- ID-1 Connecting to: play.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:57 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:57 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:57 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:57 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:57 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:57 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:57 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:57 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:57 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:57 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:57 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:57 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:57 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:57 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:57 GMT+0530 (IST) -- ID-1 Writing response from: apis.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:57 GMT+0530 (IST) -- ID-1 [PARSING RESPONSE][0][26288254] HTTP/1.1 200 FROM play.google.com:443
+Wed Apr 20 2022 04:35:57 GMT+0530 (IST) -- ID-1 Connected to: play.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:57 GMT+0530 (IST) -- ID-1 Writing response from: apis.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:57 GMT+0530 (IST) -- ID-1 Writing response from: apis.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:57 GMT+0530 (IST) -- ID-1 Writing response from: apis.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:57 GMT+0530 (IST) -- ID-1 Writing response from: apis.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:57 GMT+0530 (IST) -- ID-1 Writing response from: apis.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:57 GMT+0530 (IST) -- ID-1 Writing response from: apis.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:57 GMT+0530 (IST) -- ID-1 Writing response from: apis.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:57 GMT+0530 (IST) -- ID-1 Writing response from: apis.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:57 GMT+0530 (IST) -- ID-1 Writing response from: apis.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:57 GMT+0530 (IST) -- ID-1 Writing response from: apis.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:57 GMT+0530 (IST) -- ID-1 Writing response from: apis.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:57 GMT+0530 (IST) -- ID-1 Writing response from: apis.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:57 GMT+0530 (IST) -- ID-1 Request to: adservice.google.com:443
+Wed Apr 20 2022 04:35:57 GMT+0530 (IST) -- ID-1 [PARSING HANDSHAKE][0][26288258] Handshake request to adservice.google.com:443
+Wed Apr 20 2022 04:35:57 GMT+0530 (IST) -- ID-1 Connecting to: adservice.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:57 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:57 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:57 GMT+0530 (IST) -- ID-1 Writing response from: play.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:57 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:57 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:57 GMT+0530 (IST) -- ID-1 Writing response from: play.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:57 GMT+0530 (IST) -- ID-1 [PARSING RESPONSE][0][26288258] HTTP/1.1 200 FROM adservice.google.com:443
+Wed Apr 20 2022 04:35:57 GMT+0530 (IST) -- ID-1 Connected to: adservice.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:57 GMT+0530 (IST) -- ID-1 Writing response from: play.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:57 GMT+0530 (IST) -- ID-1 Writing response from: play.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:57 GMT+0530 (IST) -- ID-1 Writing response from: adservice.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:57 GMT+0530 (IST) -- ID-1 Writing response from: adservice.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:57 GMT+0530 (IST) -- ID-1 Writing response from: adservice.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:59 GMT+0530 (IST) -- ID-1 Request to: www.google.com:443
+Wed Apr 20 2022 04:35:59 GMT+0530 (IST) -- ID-1 [PARSING HANDSHAKE][0][26288277] Handshake request to www.google.com:443
+Wed Apr 20 2022 04:35:59 GMT+0530 (IST) -- ID-1 Connecting to: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:59 GMT+0530 (IST) -- ID-1 [PARSING RESPONSE][0][26288277] HTTP/1.1 200 FROM www.google.com:443
+Wed Apr 20 2022 04:35:59 GMT+0530 (IST) -- ID-1 Connected to: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:35:59 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:36:05 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:36:05 GMT+0530 (IST) -- ID-1 Writing response from: accounts.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:36:05 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:36:05 GMT+0530 (IST) -- ID-1 Writing response from: play.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:36:05 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:36:05 GMT+0530 (IST) -- ID-1 Writing response from: adservice.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:36:05 GMT+0530 (IST) -- ID-1 Writing response from: www.gstatic.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:36:05 GMT+0530 (IST) -- ID-1 Writing response from: www.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:36:05 GMT+0530 (IST) -- ID-1 Writing response from: apis.google.com:443 via 127.0.0.1:420
+Wed Apr 20 2022 04:36:05 GMT+0530 (IST) -- ID-1 Writing response from: www.gstatic.com:443 via 127.0.0.1:420
